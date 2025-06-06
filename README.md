@@ -57,4 +57,7 @@
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=ismaelalami77&icon=0&color=0)](https://visitcount.itsvg.in)
+## 👁️ Visitors Count
+
+[![Visitor Count](https://profile-counter.glitch.me/ismaelalami77/count.svg)](https://profile-counter.glitch.me/ismaelalami77)
+
