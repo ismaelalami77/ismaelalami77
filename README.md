@@ -28,6 +28,15 @@
 
 ---
 
+## 🛠️ Applications & Tools
+
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white) 
+![PyCharm](https://img.shields.io/badge/PyCharm-158467?style=for-the-badge&logo=pycharm&logoColor=white) 
+![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white) 
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
 ## 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=ismaelalami77&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
