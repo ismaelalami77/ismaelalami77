@@ -4,7 +4,7 @@
 
 🎓 Third Year Computer Science Student at **Birzeit University (BZU)**  
 💻 Passionate about Software Development & Data Structures  
-📚 Currently exploring JavaFX, Data Structures, Algorithms, and Full Stack Development  
+📚 Currently exploring Java, Data Structures, Algorithms, and Full Stack Development  
 
 ---
 
